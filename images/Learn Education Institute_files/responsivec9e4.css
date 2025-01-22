@@ -1,0 +1,2201 @@
+/* Custom, iPhone 4  */
+
+@media only screen and (max-width: 320px) {
+    /* Header Banner Carousal */
+    .header-carousel h6 {
+        font-size: 14px !important;
+    }
+    .header-carousel h2 {
+        font-size: 12px !important;
+    }
+    .header-carousel .owl-item img {
+        height: 280px !important;
+    }
+    /*--------- Header Banner Carousal -------------------*/
+    /* Latest Update */
+    .latest_updates h3 {
+        font-size: 13px !important;
+        margin: 8px 0 !important;
+    }
+    .latest_updates h4 {
+        font-size: 20px;
+    }
+    .navbar-nav {
+        max-width: 300px !important;
+        margin: 0 auto;
+    }
+    /*----------------------- Latest Update -----------------*/
+    .timeline-article .meta-date {
+        width: 60px;
+        height: 60px;
+    }
+    .timeline-article .meta-date .date {
+        font-size: 16px;
+        line-height: 52px;
+    }
+    .latest_updates .updates_info {
+        align-items: flex-start;
+    }
+    .latest_updates .content {
+        padding: 35px 0 0 0;
+    }
+    .latest_updates .updates_info .btn {
+        padding: 2px 15px !important;
+        font-size: 12px !important;
+    }
+    .header-top ul li a {
+        font-size: 12px !important;
+        margin: 0 6px !important;
+    }
+    ul.social_icons li a.social_icons_fa {
+        width: 20px;
+        height: 20px;
+    }
+    .header-top ul.social_icons li a .bx {
+        font-size: 12px !important;
+        line-height: 10px !important;
+        vertical-align: initial !important;
+    }
+    .event-calendar .event-icon {
+        padding: 15px 10px 10px 10px !important;
+        line-height: 24px !important;
+        background-size: contain !important;
+    }
+    .event-calendar .event-icon .date,
+    .event-calendar .event-icon .month {
+        display: inline-block;
+        font-size: 14px !important;
+    }
+    .member_list img {
+        height: 250px !important;
+    }
+    ul.terms_link li a {
+        font-size: 11px !important;
+        padding: 0px 4px !important;
+    }
+    .footer ul.social_icons li a.social_icons_fa {
+        line-height: 18px !important;
+    }
+    .footer ul.social_icons li .bx {
+        font-size: 22px !important;
+        line-height: 30px !important;
+    }
+}
+
+@media only screen and (max-width :450px) {
+    .member_list img {
+        height: 330px !important;
+    }
+    .mobile_margin {
+        margin-top: 20px;
+    }
+    ul.list_style li {
+        width: 100%;
+        margin: 5px;
+    }
+    ul.list_style li a {
+        margin: 10px;
+    }
+    .justifytext {
+        margin-bottom: 10px;
+        text-align: justify;
+        clear: both;
+        margin-top: 11px;
+        clear: both;
+    }
+    .hidden p {
+        margin-bottom: 12px !important;
+        font-size: 16px !important;
+        width: 100% !important;
+    }
+    .rounded-md svg {
+        width: 20px !important;
+        height: 35px !important;
+    }
+    .relative .bg-white {
+        padding: 4px 10px !important;
+        line-height: 35px;
+        margin-right: 3px !important;
+    }
+    span.relative {
+        padding: 6px 0px !important;
+    }
+}
+
+@media only screen and (max-width :567px) {
+    .latest_updates .updates_info {
+        align-items: flex-start;
+    }
+    .director_img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .latest_updates_carousel .owl-dots {
+        bottom: 0px;
+    }
+    .member_lists ul li {
+        width: 100%;
+    }
+    .member_list img {
+        height: 450px;
+    }
+    .technology img {
+        width: 400px;
+        margin-bottom: 20px;
+    }
+    .hiring .nav-item {
+        width: 100%;
+    }
+    .justifytext {
+        margin-bottom: 10px;
+        text-align: justify;
+        clear: both;
+        margin-top: 11px;
+        clear: both;
+    }
+    .contact-text p .bx {
+        float: left;
+    }
+    .contact_us p {
+        overflow: hidden;
+        display: block !important;
+    }
+    ul.list_style li a {
+        min-width: 250px;
+    }
+    .central-instrument-facility h4 {
+        margin-top: 0 !important;
+    }
+    .central-instrument-facility .btn {
+        margin: 0 0 10px 0 !important;
+    }
+    .banner_imges ul li {
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .gif_image {
+        margin: 0 0 10px 0 !important;
+    }
+    .banner_imges ul {
+        display: block;
+        justify-content: space-between;
+        margin-bottom: 0px;
+    }
+    .contact-text a {
+        margin: 15px 0 0 0;
+        display: block;
+    }
+    p.text-sm.text-gray-700.leading-5 {
+        width: 100%;
+        margin-bottom: 30px !important;
+        font-size: 20px;
+    }
+    .relative .bg-white {
+        margin-right: 3px;
+    }
+    .rounded-md svg {
+        height: 45px !important;
+    }
+    span.relative {
+        padding: 8px 2px !important;
+    }
+}
+
+@media (min-width:568px) and (max-width:767px) {
+    .member_lists ul li {
+        width: 50% !important;
+    }
+    .member_list img {
+        height: 315px !important;
+    }
+    .member_list img {
+        height: 450px;
+    }
+    .technology img {
+        width: 400px;
+        margin-bottom: 20px;
+    }
+    ul.list_style li a {
+        min-width: 250px;
+    }
+    .hidden p {
+        width: 100% !important;
+        margin-bottom: 13px !important;
+        font-size: 16px !important;
+    }
+    .relative .bg-white {
+        margin-right: 3px;
+        padding: 8px 8px !important;
+    }
+    .rounded-md svg {
+        height: 45px !important;
+    }
+    span.relative {
+        padding: 8px 2px !important;
+    }
+    .navbar-nav .dropdown-menu a {
+        text-align: left !important;
+        padding: 3px 10px;
+    }
+    .info_scientis {
+        bottom: 0px !important;
+    }
+}
+
+@media only screen and (min-width :767px) {
+    .event-calendar .event-icon {
+        width: 85px;
+        height: 80px;
+        margin: 0 0 5px 0;
+        padding: 0 0 8px;
+    }
+}
+
+
+/* Mobile, Small Tablet  */
+
+@media (min-width:320px) and (max-width:767px) {
+    ul#myTab li.nav-item {
+        margin: 5px 2px;
+    }
+    .header-top .d-flex {
+        display: block !important;
+    }
+    p {
+        font-size: 14px;
+    }
+    /* Nav Bar Style */
+    .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+    }
+    .navbar_header {
+        padding: 0 0px !important;
+    }
+    .container {
+        max-width: 100% !important;
+    }
+    .navbar-nav {
+        max-width: 92% !important;
+        flex-direction: column !important;
+    }
+    /* ------------------   */
+    .lb-data .lb-details {
+        width: 75%;
+    }
+    .portfolio-inner:hover .portfolio-text {
+        bottom: 18px !important;
+        opacity: 1 !important;
+    }
+    .portfolio-inner .portfolio-text {
+        bottom: 0 !important;
+        opacity: 1 !important;
+        padding: 10px 0 !important;
+    }
+    .faculty_member_list .portfolio-inner .portfolio-text {
+        bottom: 0 !important;
+        opacity: 1 !important;
+        padding: 20px 20px !important;
+        position: relative;
+    }
+    /* Header Banner Carousal */
+    .header-carousel h3 {
+        font-size: 17px;
+        margin: 15px 0 !important;
+    }
+    .header-carousel h2 {
+        font-size: 14px;
+    }
+    .header-carousel h6 {
+        font-size: 16px;
+    }
+    .header-carousel .owl-item img {
+        height: 265px;
+    }
+    .header-carousel .owl-dots {
+        bottom: 5px;
+    }
+    /* ------------------   */
+    /* Announcement Section */
+    .announcement-section .news-content .fa {
+        line-height: 40px;
+    }
+    .announcement-section .bg_gray {
+        margin-bottom: 10px;
+    }
+    .news-content a {
+        display: block;
+        font-size: 12px;
+    }
+    .announcement-section .owl-nav {
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+    }
+    .announcement-section .owl-nav .owl-next {
+        right: 0px !important;
+        position: absolute;
+        display: inline-block;
+    }
+    .announcement-section .owl-nav .owl-prev {
+        left: 0px !important;
+        position: absolute;
+        display: inline-block;
+    }
+    .announcement-section {
+        padding: 20px 0 20px 0;
+    }
+    .latest_updates h2,
+    .announcement-section h1 {
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .ms-3 {
+        margin: 0 !important;
+    }
+    /* ------------------   */
+    /* About Us */
+    .about_us {
+        width: 94%;
+    }
+    .content {
+        /* padding: 20px 0; */
+        padding: 80px 0 !important;
+    }
+    .about_us .w-75 {
+        margin: 10px auto;
+        width: 150px !important;
+    }
+    /* ------------------   */
+    /* Latest Update */
+    .latest_updates h4 {
+        margin-top: 50px;
+    }
+    .latest_updates h3 {
+        font-size: 18px;
+        margin: 8px 0 !important;
+    }
+    .latest_updates .updates_info p {
+        margin: 0 0 5px 0 !important;
+    }
+    .latest_updates .updates_info .btn {
+        padding: 4px 30px;
+        font-size: 14px;
+    }
+    .latest_updates_carousel .owl-dots {
+        bottom: 0px;
+    }
+    .event-calendar .event-icon .date,
+    .event-calendar .event-icon .month {
+        display: inline-block;
+    }
+    .event-calendar .event-icon {
+        padding: 25px 10px 10px 10px;
+        margin-bottom: 10px;
+        line-height: 20px;
+        background-size: cover;
+    }
+    .news-content p{
+        font-size: 14px;
+    }
+    .news-content p span {
+        font-size: 10px;
+    }
+    .news-content p {
+        font-size: 10px;
+    }
+    /* ------------------   */
+    .back-to-top {
+        position: fixed;
+        display: none;
+        right: 5px;
+        bottom: 5px;
+        z-index: 999999;
+    }
+    .footer .owl-nav .owl-prev,
+    .footer .owl-nav .owl-next {
+        top: 45%;
+    }
+    .copyright-section a {
+        padding: 0;
+        text-align: center;
+        display: block;
+    }
+    .page-header h1 {
+        font-size: 24px;
+    }
+    .page-header ol.breadcrumb li a {
+        font-size: 16px;
+    }
+    .member_lists a {
+        word-break: break-word;
+    }
+    .scientisinfo {
+        padding: 30px 0 0px 0;
+    }
+    .scientisinfo .position-relative {
+        margin-bottom: 20px;
+    }
+    .contact_info_scientist ul li {
+        margin-bottom: 10px;
+    }
+    .contact_info_scientist ul li:last-child {
+        margin-bottom: 0px !important;
+    }
+    .accordion-body h3 {
+        font-size: 18px !important;
+    }
+    .accordion-body h4 {
+        font-size: 16px !important;
+    }
+    .footer ul.quick_links li a {
+        font-size: 14px;
+    }
+    .campus_about_us {
+        padding: 30px 0 0 0;
+    }
+    .campus_about_us p,
+    .campus_about_us video {
+        margin-bottom: 20px !important;
+    }
+    .portfolio-item {
+        margin-bottom: 0;
+    }
+    .portfolio-inner h5.lh-base {
+        margin: 0 !important;
+        padding: 0;
+        font-size: 18px;
+        color: #fff;
+    }
+    .campus_tour_video {
+        margin-bottom: 0px;
+    }
+    .custom-video {
+        object-fit: contain;
+        height: 100%;
+    }
+    .video-wrap video {
+        height: auto;
+    }
+    .header-top .text-start {
+        text-align: center !important;
+    }
+    .header-top ul {
+        margin: 10px 0 0 0;
+    }
+    .page-header {
+        padding: 0;
+    }
+    .section-title:after {
+        bottom: 9px;
+    }
+    .section-title:before {
+        top: 11px;
+    }
+    .technology .section_title_mobile:before,
+    .section_title_mobile:after {
+        display: none;
+    }
+    .technology h4 {
+        font-size: 20px;
+    }
+    .technology .section-title {
+        margin: 0 !important;
+    }
+    ul.terms_link {
+        padding: 10px 0;
+        flex-wrap: wrap;
+    }
+    ul.terms_link li a {
+        font-size: 11px;
+        padding: 0px 4px;
+    }
+    .energy-environment-unit .section-title {
+        font-size: 20px;
+    }
+    .energy-environment-unit .section-title:before {
+        top: 8px;
+    }
+    .energy-environment-unit .section-title:after {
+        bottom: 8px;
+    }
+    .project-list .text-truncate span {
+        display: block;
+        padding: 0 !important;
+        margin-bottom: 10px;
+    }
+    .ms-2 {
+        margin-left: 5px !important;
+    }
+    .project-list a {
+        font-size: 14px;
+        display: inline-block;
+        padding-right: 10px;
+        display: block;
+    }
+    .project-list .text-truncate span.bg-info a {
+        padding: 5px 0 0 0;
+        display: inline-block;
+        line-height: 18px;
+    }
+    .project-list .text-truncate span.bg-info {
+        padding: 2px 10px !IMPORTANT;
+    }
+    .project-list .text-truncate span.bg-info .fa {
+        vertical-align: super;
+    }
+    .latest_updates h2::after {
+        width: 235px;
+    }
+    .honorary-faculty .section-title {
+        font-size: 20px;
+    }
+    .honorary-faculty .section-title:before {
+        top: 10px;
+    }
+    .honorary-faculty .section-title:after {
+        bottom: 4px;
+    }
+    .scientists h3:before,
+    .scientists h3:after {
+        display: none;
+    }
+    .scientists ul.content {
+        margin-top: 0px;
+    }
+    .scientists .section-title {
+        font-size: 20px;
+    }
+    .devices-unit .portfolio-inner img {
+        height: 400px;
+    }
+    .portfolio-inner .text-left.p-3 {
+        display: none;
+    }
+    .rti .section-title {
+        font-size: 24px;
+    }
+    .rti .section-title::after {
+        width: calc(100% + 60px);
+        left: -30px;
+    }
+    .rti .section-title::before {
+        width: calc(100% + 60px);
+        right: -30px;
+    }
+    .latest_updates img {
+        /* height: 200px; */
+        height: auto !important;
+    }
+    .about_section img {
+        height: auto;
+    }
+    .holder .event-icon .img {
+        top: 0px !important;
+    }
+    li.nav-item.dropdown {
+        width: 100% !important;
+        text-align: left !important;
+    }
+    .navbar img {
+        width: 100px !important;
+    }
+    .col-lg-7.col-sm-12.col-md-12.text-start.campus-flex {
+        display: block !important;
+    }
+    .form-group {
+        width: 100%;
+        margin: 0 6px 20px;
+        display: inline-block;
+    }
+    .commbersdesign td {
+        font-size: 13px;
+    }
+    .detailed-nav-conferences .tab-pane img {
+        height: auto;
+    }
+    .gp-inner {
+        display: block;
+    }
+    .gp-inner .item {
+        display: flex;
+    }
+    .speakerlists .speakerimg img {
+        height: 300px !important;
+    }
+    .item-data img {
+        padding: 0;
+    }
+    .item-data {
+        padding: 8px 10px;
+    }
+    .inner .item {
+        display: block;
+    }
+    .description-area.news-area img {
+        width: 100% !important;
+    }
+}
+
+
+
+
+/*  Large Tablet  */
+
+@media (max-width: 992px) {
+    .scientists .row.mb-3 {
+        margin-bottom: 0 !important;
+    }
+    .scientists .col-lg-4 {
+        margin-bottom: 15px;
+    }
+    /* Nav Bar Style */
+    .navbar-toggler {
+        padding: 0;
+    }
+    .navbar-toggler .bx-menu {
+        color: #fff;
+        font-size: 28px;
+        border: 2px solid #FFF;
+        padding: 4px 4px;
+        border-radius: 8px;
+    }
+    .navbar-nav .nav-link {
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+        border-radius: 0 !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .nav-item {
+        margin: 4px 0 4px 0px;
+    }
+    /* .navbar .container .navbar-collapse {
+		position: absolute;
+		background: #213681;
+		right: 0;
+		top: 107px;
+		left: 0;
+		border-top: 1px solid #fff;
+	} */
+    .navbar-nav {
+        max-width: 720px;
+        margin: 0 auto;
+    }
+    .navbar-expand-lg .navbar-nav {
+        flex-direction: row;
+        align-items: left !important;
+    }
+    .header-top .container {
+        justify-content: center;
+        flex-direction: row;
+    }
+    .header-top .text-start {
+        text-align: center !important;
+    }
+    .header-top ul {
+        margin: 12px 0 0 0;
+    }
+    .header-top .h-100 {
+        height: auto !important;
+    }
+    .header-top .text-start ul li a {
+        font-size: 14px;
+    }
+    .header-top {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .header-top ul li a {
+        font-size: 14px;
+        margin: 0 8px;
+        line-height: 24px;
+    }
+    .header-top ul.social_icons li:first-child a .bx {
+        font-size: 14px;
+    }
+    ul.social_icons li a.social_icons_fa {
+        width: 24px;
+        height: 24px;
+    }
+    .header-top ul.social_icons li a .bx {
+        font-size: 12px;
+        line-height: 24px;
+        vertical-align: top;
+    }
+    .header-top .text-end {
+        text-align: center !important;
+    }
+    /* ------------------   */
+    /* .conferences .member_list img {
+        height: auto !important;
+    } */
+    .research-highlights .staff_list img {
+        object-fit: cover;
+        height: auto !important;
+    }
+    .devices-unit .portfolio-inner img {
+        height: 400px;
+    }
+    .chemical-environment-unit .portfolio-inner img {
+        height: 400px;
+    }
+}
+
+
+/*  Large Tablet  */
+
+@media (max-width: 990px) {
+    /* Latest Update */
+    .latest_updates h4 {
+        margin-top: 50px;
+    }
+    /*---------- Latest Update ---------------*/
+}
+
+
+/*  Large Tablet  */
+
+@media (min-width: 992px) {
+    /* Nav Bar Style */
+    .navbar .nav-item:hover .dropdown-menu {
+        top: 100%;
+        visibility: visible;
+        /* transition: .5s; */
+        opacity: 1;
+    }
+    .navbar .nav-item .dropdown-menu {
+        display: block;
+        border: none;
+        margin-top: 0;
+        top: 150%;
+        opacity: 0;
+        visibility: hidden;
+        /* transition: .5s; */
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0.4rem;
+        padding-left: 0.4rem;
+    }
+    /*-------------- Nav Bar Style -------------------*/
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .event-calendar .event-icon {
+        width: 80px !important;
+        height: 80px !important;
+        padding: 12px 0;
+    }
+    .event-calendar .event-icon .month {
+        margin-top: 13px;
+    }
+    .about_us .col-sm-12 {
+        width: 50% !important;
+    }
+    .banner_imges ul li img {
+        border-radius: 8px;
+        height: 200px;
+        object-fit: cover;
+        width: 100%;
+    }
+    .info_scientis h3 {
+        font-size: 16px !important;
+    }
+    .info_scientis p {
+        font-size: 12px !important;
+    }
+}
+
+
+/*  Large Tablet  */
+
+@media (min-width:768px) and (max-width:1023px) {
+    .news-content a {
+        font-size: 14px;
+    }
+    /* Header Banner Carousal */
+    .header-carousel h3 {
+        font-size: 34px;
+    }
+    #profileinfotabs p {
+        text-align: left;
+    }
+    .header-carousel .owl-dots {
+        bottom: 20px;
+    }
+    .header-carousel h6 {
+        font-size: 18px;
+    }
+    .header-carousel .carousel-inner {
+        padding-top: 3%;
+    }
+    .header-carousel .owl-item img {
+        height: auto !Important;
+    }
+    /*--------------- Header Banner Carousal --------------------*/
+    /* About Us */
+    .about_us .w-75 {
+        width: 75% !important;
+        margin: 10px auto;
+        display: block;
+    }
+    /*-------------- About Us ----------------*/
+    .member_lists ul li {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+    .member_list img {
+        height: 250px !important;
+    }
+    .member_lists h4 {
+        font-size: 17px !important;
+    }
+    .info_scientis p {
+        font-size: 12px;
+    }
+    #profileinfotabs .member_data p {
+        font-size: 14px;
+    }
+    .member_list img {
+        object-position: top;
+    }
+    #profileinfotabs .member_data p span {
+        font-size: 14px;
+    }
+    .responsive-tabs dt {
+        padding: 8px;
+        font-size: 12px;
+    }
+    .scientisinfo {
+        padding: 50px 0 0 0;
+    }
+    .news-content p {
+        font-size: 12px;
+    }
+    .news-content p span {
+        font-size: 15px;
+    }
+    .news-content p {
+        font-size: 15px;
+    }
+    .footer ul.quick_links li a,
+    .footer p,
+    .footer a {
+        font-size: 15px;
+    }
+    .staff_list p {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .annual_report h4 {
+        font-size: 17px;
+    }
+    .annual_report-block {
+        padding: 15px;
+    }
+    .annual_report-block a {
+        font-size: 11px;
+    }
+    .section-title:after {
+        bottom: 9px;
+    }
+    .section-title:before {
+        top: 14px;
+    }
+    .technology img {
+        width: 400px;
+        margin-bottom: 20px;
+    }
+    .conferences a {
+        font-size: 16px;
+    }
+    .conferences .member_data p {
+        font-size: 13px;
+    }
+    .scientists .section-title.text-start {
+        font-size: 16px;
+    }
+    .scientists .section-title:after {
+        bottom: 12px;
+    }
+    .form-group {
+        width: 47%;
+        margin: 0 6px 20px;
+        display: inline-block;
+    }
+    .commbersdesign td {
+        font-size: 13px;
+    }
+}
+
+
+/*  Large Tablet / Small Screen  */
+
+@media (min-width:992px) and (max-width:1199px) {
+    /* Header Banner Carousal */
+    .header-carousel h3 {
+        font-size: 34px;
+    }
+    #profileinfotabs ul.listexperient li {
+        text-align: left !Important;
+    }
+    .header-carousel .owl-item img {
+        height: auto !Important;
+    }
+    .navbar_header .nav-link {
+        font-size: 13px;
+    }
+    .logo img {
+        width: 80px;
+    }
+    /*-------------------- Header Banner Carousal ---------------------------------*/
+    /* Latest Update */
+    .holder {
+        height: 300px !important;
+    }
+    .news-content p {
+        font-size: 16px;
+    }
+    .news-content p span {
+        font-size: 14px;
+    }
+    .news-content p {
+        font-size: 14px;
+    }
+    /*------------------------------- Latest Update --------------------------------*/
+    /* Footer  Css */
+    .footer ul.quick_links li a {
+        font-size: 14px;
+    }
+    .footer h5 {
+        font-size: 18px !important;
+    }
+    .footer .owl-nav {
+        height: 2px;
+    }
+    .footer ul.quick_links li a,
+    .footer p,
+    .footer a {
+        font-size: 13px;
+    }
+    .copyright-section a {
+        display: block;
+    }
+    /*------------------ Footer  Css -----------------------*/
+    .research-highlights .staff_list img {
+        object-fit: cover;
+    }
+    .member_list img {
+        height: 250px !important;
+    }
+    .conferences .member_list img {
+        height: auto !important;
+    }
+    .member_lists h4 {
+        font-size: 17px !important;
+    }
+    .info_scientis p {
+        font-size: 14px;
+    }
+    #profileinfotabs .member_data p {
+        font-size: 14px;
+    }
+    #profileinfotabs .member_data p span {
+        font-size: 14px;
+    }
+    .campus_tour_video {
+        margin-bottom: 0;
+    }
+    .staff_list p {
+        font-size: 14px;
+    }
+    .conferences .member_data p {
+        font-size: 14px;
+    }
+    .portfolio-inner h5.lh-base {
+        font-size: 16px;
+    }
+    .scientists .section-title.text-start {
+        font-size: 24px;
+    }
+    .scientists .section-title:after {
+        bottom: 8px;
+    }
+    .latest_updates img {
+        height: 350px;
+    }
+    .latest_updates h3 {
+        font-size: 28px !important;
+    }
+}
+
+
+/*  Large Screen  */
+
+@media (min-width:1190px) and (max-width:1210px) {
+    /* Nav Bar Style */
+    .navbar_header .nav-link {
+        font-size: 13px;
+    }
+    .nav-item {
+        margin: 0 0 0 2px;
+    }
+    .logo img {
+        width: 100px;
+    }
+    /*---------------- Nav Bar Style -----------------------*/
+    /* Footer  Css */
+    .footer h5 {
+        font-size: 15px;
+    }
+    /*--------------- Footer  Css ------------------*/
+    .header-top ul li a {
+        font-size: 12px;
+        margin: 0 4px;
+    }
+    ul.social_icons li a.social_icons_fa {
+        width: 20px;
+        height: 20px;
+    }
+    .header-top ul.social_icons li a .bx {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .header-top .text-end {
+        text-align: center !important;
+    }
+    .portfolio-inner h5.lh-base {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1200px) {
+    .section-title:before {
+        top: 13px;
+    }
+    .section-title:after {
+        bottom: 11px;
+    }
+    .contact_info_scientist ul li {
+        margin-right: 36px !important;
+    }
+    .news-content a {
+        font-size: 14px;
+    }
+}
+
+
+/*  Large Screen  */
+
+@media (min-width:1210px) and (max-width:1300px) {
+    /* Nav Bar Style */
+    .navbar_header .nav-link {
+        font-size: 14px !important;
+    }
+    /*---------------- Nav Bar Style -----------------------*/
+    /* Header Banner Carousal */
+    .header-carousel h3 {
+        font-size: 44px;
+    }
+    /*---------------- Header Banner Carousal ------------------*/
+    /* Latest Update */
+    .holder {
+        height: 365px !important;
+    }
+    /*---------------------------------- Latest Update -----------------------------*/
+    /* Footer  Css */
+    .footer h5 {
+        font-size: 18px;
+    }
+    /*--------------- Footer  Css ------------------*/
+    .member_list img {
+        height: 200px;
+    }
+    .conferences .member_list img {
+        height: auto !important;
+    }
+    .member_lists h4 {
+        font-size: 14px;
+    }
+    .staff_list p {
+        font-size: 14px;
+    }
+    .faculty_member_list .portfolio-inner h5 {
+        font-size: 18px
+    }
+    .Approved by-office .member_data {
+        min-height: 82px;
+    }
+    .faculty_member_list .portfolio-inner .portfolio-text h5 {
+        font-size: 18px;
+    }
+}
+
+
+/*  Large Screen  */
+
+@media (min-width:1300px) and (max-width:1400px) {
+    /* Nav Bar Style */
+    .navbar_header .nav-link,
+    .header-top ul li a {
+        font-size: 14px;
+    }
+    /*---------------- Nav Bar Style -----------------------*/
+    /* Header Banner Carousal */
+    .header-carousel .carousel-inner {
+        padding-top: 100px !important;
+    }
+    h6 {
+        font-size: 18px;
+    }
+    .header-carousel h3{
+        font-size: 44px;
+    }
+    .latest_updates img {
+        height: 415px;
+    }
+    .header-carousel .owl-item img {
+        height: 400px !important;
+    }
+    /*---------------------- Header Banner Carousal ----------------------------------*/
+    /* Latest Update */
+    .holder {
+        height: 365px !important;
+    }
+    .news-content p {
+        font-size: 14px;
+    }
+    /*---------------------------------- Latest Update -----------------------------*/
+    /* Footer  Css */
+    .footer h5 {
+        font-size: 18px !important;
+    }
+    /* .conferences .member_list img {
+        max-height: none !important;
+    } */
+    .member_list img {
+        height: auto;
+    }
+    .member_lists h4 {
+        font-size: 15px;
+        /* top: 165px; */
+    }
+    .Approved by-office .member_data {
+        min-height: 82px;
+    }
+    .research-highlights .staff_list img {
+        object-fit: cover;
+    }
+    .info_scientis p {
+        font-size: 14px;
+    }
+    .footer ul.quick_links li a,
+    .footer p,
+    .footer a {
+        font-size: 14px;
+    }
+    .staff_list p {
+        font-size: 14px;
+    }
+    .faculty_member_list .portfolio-inner h5 {
+        font-size: 18px
+    }
+    .faculty_member_list .portfolio-inner .portfolio-text h5 {
+        font-size: 18px;
+    }
+    /*------------------------------------------------------------- Footer  Css ----------------------------------------------*/
+}
+
+
+/*===== Resonsive Vertical Timeline =====*/
+
+@media only screen and (max-width: 830px) {
+    #conference-timeline .timeline-start,
+    #conference-timeline .timeline-end {
+        margin: 0;
+    }
+    #conference-timeline .conference-center-line {
+        margin-left: 0;
+        left: 50px;
+    }
+    .timeline-article .meta-date {
+        margin-left: 0;
+        left: 20px;
+    }
+    .timeline-article .content-left-container,
+    .timeline-article .content-right-container {
+        max-width: 100%;
+        width: auto;
+        float: none;
+        margin-left: 110px;
+        min-height: 53px;
+    }
+    .timeline-article .content-left-container {
+        margin-bottom: 20px;
+    }
+    .timeline-article .content-left,
+    .timeline-article .content-right {
+        padding: 10px 25px;
+        min-height: 65px;
+    }
+    .timeline-article .content-left:before {
+        content: "\f0d9";
+        right: auto;
+        left: -8px;
+    }
+    .timeline-article .content-right:before {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .timeline-article p {
+        margin: 0;
+    }
+    .timeline-article p span.article-number {
+        display: none;
+    }
+    .timeline-article .content-left,
+    .timeline-article .content-right {
+        padding: 10px 25px;
+        min-height: 65px;
+        text-align: center;
+    }
+    .timeline-article .meta-date {
+        margin-left: 0;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+    #conference-timeline .conference-center-line {
+        left: 0;
+        right: 0;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .timeline-article .content-left-container,
+    .timeline-article .content-right-container {
+        max-width: 100%;
+        width: auto;
+        float: none;
+        margin-left: 0;
+        min-height: 53px;
+        margin-top: 100px;
+        z-index: 999;
+        position: relative;
+    }
+}
+
+
+/*===== // Resonsive Vertical Timeline =====*/
+
+@media only screen and (min-width: 768px) {
+    .responsive-tabs {
+        margin: 0;
+        text-align: center;
+    }
+    .hiring .responsive-tabs {
+        text-align: left;
+    }
+    .responsive-tabs dt {
+        float: none;
+        display: inline-block;
+        border-top: 0;
+        margin: 0 10px 0 0;
+        background: #ededed;
+        font-weight: 600;
+    }
+    .responsive-tabs .active+dd {
+        display: none;
+    }
+    .hiring .responsive-tabs-placeholder {
+        padding: 0px;
+        box-shadow: 0 0 45px rgb(0 0 0 / 8%);
+        min-height: 100px;
+        background: #fff;
+    }
+    .responsive-tabs-placeholder {
+        clear: both;
+        display: block;
+        padding: 20px 20px 10px 0px;
+        border-top: none;
+        font-weight: 600;
+    }
+}
+
+@media only screen and (min-width: 1500px) {
+    .header-carousel .owl-item img {
+        height: 70vh !important;
+    }
+    .header-carousel .carousel-inner {
+        padding-top: 4%;
+    }
+    .video-wrap video {
+        height: 500px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .header-carousel .owl-item img {
+        object-position: top;
+    }
+    .header-carousel .owl-item img {
+        height: 467px !important;
+    }
+    .latest_updates .row.align-items-center {
+        flex-flow: row;
+    }
+    .section-title:after {
+        bottom: 11px;
+    }
+    .section-title:before {
+        top: 14px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 574px) {
+    .custom-links-class {
+        margin-top: 25px;
+    }
+    .custom-links-class h5 {
+        margin-bottom: 15px !important;
+    }
+    .footer ul.quick_links li {
+        margin: 5px 0;
+    }
+    i.bx.bx-current-location.me-3.mt-2.orange_color {
+        margin: 0 15px 2px 0px !important;
+    }
+    .footer .contact_us p {
+        margin-bottom: 15px !important;
+    }
+    .navbar-nav>li>a {
+        font-size: 14px !important;
+    }
+    .navbar-nav>li {
+        position: relative;
+        margin: 0 0 2px 0;
+        border-bottom: 1px solid #ddd;
+    }
+    .navbar-nav .dropdown-menu a {
+        padding: 2px 10px;
+        font-size: 14px;
+        text-align: left;
+    }
+    .navbar-nav .dropdown-menu {
+        padding: 0;
+    }
+    .news-content {
+        padding: 20px 10px;
+        height: auto;
+        min-height: 200px;
+    }
+    .news-content p {
+        font-size: 16px;
+    }
+    .news-content p span {
+        font-size: 14px;
+    }
+    .news-content p {
+        font-size: 14px;
+    }
+    .latest_updates h2,
+    .announcement-section h1 {
+        font-size: 24px;
+    }
+    .navbar .container .navbar-collapse {
+        top: 101px;
+    }
+    .latest_updates h3 {
+        font-size: 16px !important;
+    }
+    .event-calendar .event-icon {
+        margin: 0;
+    }
+    .select_year select.workingsinceyear option {
+        font-size: 10px !important;
+    }
+    /*========== about-us ==========*/
+    .about_section p img {
+        margin: 0 !important;
+        width: 100% !important;
+    }
+    .socio-icons li a.social_icons_fa {
+        width: 34px !important;
+        height: 34px !important;
+    }
+    .Approved by-office .member_data {
+        min-height: auto;
+    }
+    .description-area p {
+        text-align: justify;
+    }
+    .tender_area {
+        display: block;
+    }
+    .inner-pages .btn_style {
+        margin-top: 10px;
+    }
+    .member_list img {
+        object-position: top;
+        height: auto !important;
+    }
+    ul.research_description li {
+        word-break: break-all;
+    }
+    .mou .bg_gray {
+        margin: 0;
+    }
+    li {
+        word-break: break-word;
+    }
+    .accordion-body {
+        padding: 10px;
+    }
+    form.inner-cats .col-md-5 {
+        margin-bottom: 10px;
+    }
+    form.inner-cats .col-md-5 input.form-control {
+        border: 2px solid #d6d4d4;
+        border-radius: 100px;
+        padding: 9px 40px 8.5px 20px;
+        font-weight: 500;
+        color: #000;
+        font-size: 15px;
+    }
+    .button-search button.btn {
+        margin: 0 auto;
+    }
+    .rech-us .box-shadow {
+        margin: 0px 0px;
+        background: #fff;
+        border: none;
+    }
+    .footer a,
+    .footer p {
+        text-align: left;
+    }
+    li.cntct_us {
+        display: none;
+    }
+    li.icon_social {
+        display: none;
+    }
+    li.cntct_us {
+        display: none;
+    }
+    .header-top .search input {
+        min-width: 0px !important;
+        width: 130px !important;
+        height: 30px !important;
+        float: left !important;
+    }
+    li.cp_tr {
+        margin-top: -10px !important;
+        width: 100% !important;
+    }
+    li.cp_trr {
+        display: none;
+    }
+    li.moble_no {
+        display: none;
+    }
+    li.hindii {
+        display: none;
+    }
+    .col-lg-5.col-sm-12.col-md-12.text-end.d-lg-inline-block.lower-head-inst {
+        display: none;
+    }
+    .header-top .search button {
+        top: 1px !important;
+    }
+    .annual_report-block {
+        padding: 25px 35px 25px 35px !important;
+    }
+    .contact_info_scientist {
+        padding: 15px 2px 5px 12px !important;
+    }
+    .faculty_img {
+        padding-bottom: 0px !important;
+        padding-top: 0px !important;
+    }
+    .project-list {
+        margin-bottom: 0px !important;
+    }
+    .project-list h3 {
+        font-size: 20px !important;
+    }
+    .project-list.p-4 {
+        padding: 10px !important;
+    }
+    .project-list .content {
+        margin-top: 0px !important;
+    }
+    .about_section .descriptiontext {
+        text-align: justify !important;
+    }
+    ul.d-inline-flex.align-items-end {
+        margin: 0px !important;
+    }
+    ul.d-inline-flex.h-100.social_icons.align-items-center {
+        margin: 0px !important;
+    }
+    li.admsn_job span.new-n a.nav-item.nav-link.blink {
+        padding: 0px 5px 0 0 !important;
+        margin: 0px !important;
+        font-size: 14px !important;
+    }
+    .container.d-flex.py-2 {
+        padding: 0px 0px !important;
+    }
+    ul.d-inline-flex.align-items-end li.cp_tr {
+        margin-top: 1px !important;
+    }
+    li.cp_tr a.nav-item {
+        font-size: 14px !important;
+        padding: 2px 15px !important;
+    }
+    input.form-control {
+        font-size: 14px !important;
+    }
+    .footer p.my-3.text-white {
+        text-align: justify;
+    }
+    div#navbarCollapse {
+        position: absolute;
+        background: #e7e6e6;
+        width: 100%;
+        top: 70px;
+        left: 0px;
+    }
+    .navbar_header .nav-link {
+        color: #000;
+    }
+    .footer .copyright-section p {
+        font-size: 12px !important;
+    }
+    .latest_updates img {
+        height: auto !important;
+    }
+    .content {
+        padding: 30px 0 !important;
+    }
+    .latest_updates .updates_info p {
+        font-size: 16px !important;
+    }
+    .latest_updates h3 {
+        font-size: 18px !important;
+    }
+    .phd_students .d-flex {
+        text-align: center !important;
+    }
+    /* .position-relative .img-fluid {
+		height: auto !important;
+	} */
+    .news-content .w-100 {
+        height: auto !important;
+    }
+    section.scientisinfo .info_scientis h3 {
+        font-size: 14px !important;
+    }
+    section.scientisinfo .info_scientis p {
+        font-size: 12px !important;
+        margin: 5px 0 !important;
+        text-align: left !important;
+    }
+    /*
+	.position-relative {
+		width: 80% !important;
+		text-align: center !important;
+		margin: 0px auto !important;
+		display: block !important;
+	}
+	
+	.position-relative .img-fluid {
+		width: 100% !important;
+		object-fit:cover !important;
+	}*/
+    .accordion-body .content {
+        padding: 5px 0 !important;
+    }
+    .scientisinfo p {
+        margin: 20px 0 20px 0 !important;
+        text-align: justify !important;
+    }
+    .scientisinfo ul li p {
+        margin: 0px 0 0px 0 !important;
+    }
+    section.py-5.header.detailed-sheet-header {
+        padding: 3rem 0px!important;
+    }
+    section.py-5.header.detailed-sheet-header .container.py-4.detailed-conference {
+        padding-top: 0 !important;
+    }
+    .special-row.row .col-lg-6:nth-child(1) {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .special-row.row .col-lg-6:nth-child(2) {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .header.detailed-sheet-header .row {
+        margin: 0 !important;
+    }
+    .col-lg-12.describe-head {
+        padding: 0 !important;
+    }
+    .row.special-again {
+        padding: 0;
+    }
+}
+
+@media (min-width: 575px) and (max-width: 767px) {
+    div#navbarCollapse {
+        position: absolute;
+        background: #e7e6e6;
+        width: 100%;
+        top: 70px;
+        left: 0px;
+    }
+    .navbar_header .nav-link {
+        color: #000;
+    }
+    .custom-links-class {
+        margin-top: 25px;
+    }
+    .project-list {
+        margin-bottom: 0px !important;
+    }
+    .custom-links-class h5 {
+        margin-bottom: 15px !important;
+    }
+    .footer ul.quick_links li {
+        margin: 5px 0;
+    }
+    i.bx.bx-current-location.me-3.mt-2.orange_color {
+        margin: 0 20px 0 0 !important;
+    }
+    .links-quick {
+        margin-top: var(--bs-gutter-y);
+    }
+    .news-content {
+        padding: 20px 10px;
+        height: auto;
+        min-height: 200px;
+    }
+    .news-content p {
+        font-size: 16px;
+    }
+    .news-content p span {
+        font-size: 14px;
+    }
+    .news-content p {
+        font-size: 14px;
+    }
+    .latest_updates img {
+        height: 251px;
+        object-position: 40% 31%;
+    }
+    .navbar .container .navbar-collapse {
+        top: 101px;
+    }
+    .description-area p {
+        text-align: justify;
+    }
+    .project-list .text-truncate span {
+        width: 49%;
+        display: inline-block;
+    }
+    .tender_area {
+        display: inline-block;
+    }
+    .member_list img {
+        object-position: top;
+    }
+    ul.research_description li {
+        word-break: break-all;
+    }
+    #profileinfotabs .accordion-body {
+        padding: 0px 3px;
+    }
+    ul#myTab li.nav-item {
+        width: auto !IMPORTANT;
+    }
+    #profileinfotabs .member_data p {
+        font-size: 14px;
+    }
+    .faculty_member_list .portfolio-inner .portfolio-text {
+        min-height: 155px;
+    }
+    form.inner-cats .col-md-5 input.form-control {
+        border: 2px solid #d6d4d4;
+        border-radius: 100px;
+        padding: 9px 40px 8.5px 20px;
+        font-weight: 500;
+        color: #000;
+        font-size: 15px;
+    }
+    .button-search button.btn {
+        margin: 15px auto 0;
+        padding: 7px 30px;
+    }
+    .header-top ul {
+        margin: 0 auto;
+    }
+    .header-top .text-start {
+        margin-bottom: 10px;
+    }
+    .header-top .h-100 .search .form-control {
+        min-width: 200px;
+    }
+    span.text-truncate.tender_files a {
+        width: 47%;
+    }
+    .rech-us .box-shadow {
+        margin: 0px 0px;
+        background: #fff;
+        border: none;
+    }
+    .footer a,
+    .footer p {
+        text-align: left;
+    }
+    li.cp_tr {
+        display: none;
+    }
+    li.moble_no1 {
+        display: none;
+    }
+    li.hindii1 {
+        display: none;
+    }
+    .scientisinfo .bg_gray {
+        padding: 10px 10px !important;
+    }
+    .project-list.p-4 {
+        padding: 10px !important;
+    }
+    .project-list .content {
+        margin-top: 0px !important;
+        padding: 10px 0 !important;
+    }
+    .about_section .descriptiontext {
+        text-align: justify !important;
+    }
+    ul.terms_link li a {
+        font-size: 12px !important;
+    }
+    .latest_updates .updates_info p {
+        font-size: 16px !important;
+    }
+    .latest_updates h3 {
+        font-size: 26px !important;
+        margin: 13px 0 !important;
+    }
+    .vision_mission img.img-fluid {
+        margin-top: 20px;
+    }
+    .phd_students .d-flex {
+        text-align: center !important;
+    }
+    section.py-5.header.detailed-sheet-header {
+        padding: 3rem 0px!important;
+    }
+    section.py-5.header.detailed-sheet-header .container.py-4.detailed-conference {
+        padding-top: 0 !important;
+    }
+    .special-row.row .col-lg-6:nth-child(1) {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .special-row.row .col-lg-6:nth-child(2) {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .header.detailed-sheet-header .row {
+        margin: 0 !important;
+    }
+    .col-lg-12.describe-head {
+        padding: 0 !important;
+    }
+    .row.special-again {
+        padding: 0;
+    }
+    .special-again .item.col-lg-4 {
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    #profileinfotabs ul.listexperient li {
+        text-align: left !Important;
+    }
+    a.navbar-brand.d-flex.align-items-center.logo img {
+        width: 105px;
+        object-fit: cover;
+    }
+    .navbar .container .navbar-collapse ul.navbar-nav {
+        /* height: 466px; */
+        overflow-y: auto;
+        padding: 10px 0 !important;
+    }
+    .navbar-nav>li {
+        margin: 0 0 5px 0;
+    }
+    .navbar_header .nav-link {
+        font-size: 15px;
+    }
+    .about_us p {
+        font-size: 15px;
+    }
+    .announcement-section h1 {
+        font-size: 22px;
+    }
+    .news-content p {
+        font-size: 17px;
+    }
+    .description-area p {
+        text-align: justify;
+    }
+    .conf_workshop .member_list img {
+        height: 139px !important;
+    }
+    .project-list .text-truncate span {
+        width: 49%;
+        display: inline-block;
+    }
+    .tender_area {
+        display: inline-block;
+    }
+    .member_list img {
+        object-position: top;
+    }
+    ul#myTab li.nav-item {
+        width: auto !important;
+        margin: 5px 2px;
+    }
+    .member_list img {
+        height: 311px !important;
+    }
+    #profileinfotabs ul.listexperient li p {
+        padding: 0px 0 3px 0;
+        font-size: 14px;
+    }
+    .faculty_member_list .portfolio-inner img {
+        height: 339px;
+    }
+    .campus-action .d-inline-flex.align-items-end {
+        margin: 0;
+    }
+    span.text-truncate.tender_files a {
+        width: 47%;
+    }
+    .confer .member_list img {
+        height: auto !important;
+    }
+    .rech-us .box-shadow {
+        margin: 0px 0px;
+        background: #fff;
+        border: none;
+    }
+    .relative .bg-white {
+        padding: 8px 8px !important;
+    }
+    li.cp_tr {
+        display: none;
+    }
+    li.moble_no1 {
+        display: none;
+    }
+    li.hindii1 {
+        display: none;
+    }
+    .latest_updates h3 {
+        font-size: 22px !important;
+    }
+    .d-flex {
+        display: block !important;
+        text-align: left;
+    }
+    .contact_us .d-flex.pt-2 {
+        text-align: left !important;
+    }
+    .contact_info_scientist li.d-flex {
+        display: flex !important;
+    }
+    ul.terms_link.list-group-horizontal.justify-content-center.text-center {
+        display: inline-flex !important;
+    }
+    .project-list {
+        padding: 10px !important;
+    }
+    .navbar-nav {
+        flex-direction: column !important;
+    }
+    div#navbarCollapse {
+        position: absolute;
+        background: #e7e6e6;
+        left: 0;
+        top: 74px;
+        width: 100%;
+    }
+    .navbar_header .nav-link {
+        color: #000;
+    }
+    li.nav-item.dropdown {
+        width: 100% !important;
+    }
+    li.nav-item.dropdown a.nav-link.dropdown-toggle {
+        text-align: left !important;
+    }
+    .vision_mission img.img-fluid {
+        margin-top: 20px !important;
+    }
+    .phd_students .d-flex {
+        text-align: center !important;
+    }
+    .info_scientis {
+        bottom: -65px !important;
+    }
+    .info_scientis h3 {
+        font-size: 16px !important;
+    }
+    .special-again .item.col-lg-4 {
+        width: 50%;
+    }
+    .item-data img {
+        padding: 0;
+        width: 150px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .col-lg-7.col-md-7.text-start {
+        display: flex;
+        align-items: center !important;
+    }
+    .search form {
+        width: 150px;
+    }
+    .search form input.form-control {
+        min-width: 150px !important;
+    }
+    .header-top ul li a {
+        margin: 0 9px;
+    }
+    .Approved by-office .member_data {
+        min-height: 82px;
+    }
+    .staff_list ul li {
+        width: 33%;
+    }
+    .php_admis .project-list {
+        min-height: 273px;
+    }
+    .description-area p {
+        text-align: justify;
+    }
+    .conf_workshop .member_list img {
+        height: 139px !important;
+    }
+    /* .member_list img {
+		object-position: top left;
+	} */
+    ul#myTab li.nav-item {
+        width: auto !IMPORTANT;
+    }
+    .member_lists ul li {
+        width: 25%;
+    }
+    #profileinfotabs .member_data p {
+        font-size: 14px;
+    }
+    div#collapsefour ul#myTab {
+        padding-bottom: 15px;
+    }
+    #profileinfotabs ul.listexperient li p {
+        padding: 0 0 3px 0;
+    }
+    div#collapsefour ul#myTab {
+        padding-bottom: 15px;
+    }
+    div#collapsefive ul#myTab {
+        padding-bottom: 15px;
+    }
+    .news_Scroll p {
+        line-height: 20px;
+    }
+    .text-start {
+        align-items: center;
+    }
+    span.text-truncate.tender_files a {
+        width: 30%;
+    }
+    .confer .member_list img {
+        height: 250px !important;
+    }
+    .internal-cards .project-list.p-4 {
+        min-height: 179px;
+    }
+    li.cp_tr {
+        display: none;
+    }
+    li.moble_no1 {
+        display: none;
+    }
+    li.hindii1 {
+        display: none;
+    }
+    .vision_mission img.img-fluid {
+        margin-top: 20px !important;
+    }
+    .info_scientis {
+        bottom: -45px !important;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .conf_workshop .member_list img {
+        height: 191px !important;
+    }
+    .member_list img {
+        object-position: top;
+    }
+    ul#myTab li.nav-item {
+        width: auto !IMPORTANT;
+    }
+    .member_lists ul li {
+        width: 25%;
+    }
+    #profileinfotabs .member_data p {
+        font-size: 14px;
+    }
+    #profileinfotabs ul.listexperient li p {
+        padding: 0 0 3px 0;
+    }
+    div#collapsefour ul#myTab {
+        padding-bottom: 15px;
+    }
+    div#collapsefive ul#myTab {
+        padding-bottom: 15px;
+    }
+    .news_Scroll p {
+        line-height: 20px;
+    }
+    span.text-truncate.tender_files a {
+        width: 23%;
+    }
+    .confer .member_list img {
+        height: 200px !important;
+    }
+    .internal-cards .project-list.p-4 {
+        min-height: 172px;
+    }
+    .form-group.col-2-xxxl.col-xl-2 label {
+        margin-top: 0px !important;
+    }
+    li.cp_tr {
+        display: none;
+    }
+    li.moble_no1 {
+        display: none;
+    }
+    li.hindii1 {
+        display: none;
+    }
+    .vision_mission img.img-fluid {
+        margin-top: 20px !important;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 2500px) {
+    .form-group.col-2-xxxl.col-xl-2 label {
+        margin-top: 0px !important;
+    }
+    .php_admis .project-list {
+        min-height: 273px;
+    }
+    .member_list img {
+        object-position: top;
+        height: 400px;
+    }
+    ul#myTab li.nav-item {
+        width: auto !IMPORTANT;
+    }
+    #profileinfotabs .member_data p {
+        font-size: 14px;
+    }
+    .profileinfo .member_list img {
+        height: 250px;
+    }
+    #profileinfotabs ul.listexperient li p {
+        padding: 0 0 3px 10px;
+    }
+    div#collapsefour ul#myTab {
+        padding-bottom: 15px;
+    }
+    div#collapsefive ul#myTab {
+        padding-bottom: 15px;
+    }
+    .faculty_member_list .portfolio-inner img {
+        height: 320px;
+    }
+    .navbar .nav-item .dropdown-menu {
+        padding: 3px;
+    }
+    .news_Scroll p {
+        line-height: 20px;
+    }
+    span.text-truncate.tender_files a {
+        width: 23%;
+    }
+    .internal-cards .project-list.p-4 {
+        min-height: 172px;
+    }
+    li.cp_tr {
+        display: none;
+    }
+    li.moble_no1 {
+        display: none;
+    }
+    li.hindii1 {
+        display: none;
+    }
+}
+
+@media screen and (min-width:575px){
+    .mobile_access_icon{
+        display: none;
+    }
+}
+@media (min-width: 575px) and (max-width: 624px) {
+    .search-bar-inst {
+        width: 200px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 362px) {
+    .header-top ul li a {
+        font-size: 14px !important;
+    }
+    .section-title {
+        font-size: 19px;
+    }
+    .section-title:before {
+        top: 8px;
+    }
+    .section-title:after {
+        bottom: 6px;
+    }
+}
+
+@media (min-width:1401px) and (max-width:2500px) {
+.tab-pane img {
+    height: 300px;
+}
+}
+
