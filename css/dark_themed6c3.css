@@ -1,0 +1,73 @@
+.dark_theme, .dark_theme .holder, .dark_theme .latest_updates h4, 
+.dark_theme .announcement-section h1, .dark_theme .bg-white, .dark_theme .accessibility_outer.fancybox-content, .dark_theme .news-content a:hover{
+    background: #1c1b1b !important;
+}
+.dark_theme .footer, .dark_theme .navbar_header, .dark_theme .portfolio-inner, .dark_theme .profile_block.box-shadow:hover, .dark_theme .member_list, .dark_theme .intern_table th, .dark_theme .conferences .member_data:hover, .dark_theme #profileinfotabs .accordion-button, .dark_theme .contact_info_scientist ul li .icon, .dark_theme .info_scientis, 
+.dark_theme ul#myTab li.nav-item, .dark_theme .faculty_member_list .portfolio-inner .bg-white, .dark_theme .announcement-section .news-content:hover, .dark_theme .header-carousel h2, .dark_theme .accessibility_outer .accessibility_change.accessibility_active, .dark_theme .responsive-tabs .active, .dark_theme .hiring .alert-warning, .dark_theme .news-content a{
+    background: #000 !important;
+}
+.dark_theme ul.social_icons li a, .dark_theme .orange_color, .dark_theme .navbar_header .nav-link, .dark_theme p, .dark_theme h1, .dark_theme h2, .dark_theme h3, 
+.dark_theme h4, .dark_theme h5, .dark_theme h6, .dark_theme .footer ul.quick_links li a:hover, .dark_theme ul.terms_link li a, .dark_theme .footer ul.quick_links li a, 
+.dark_theme span.since_date, .dark_theme .announcement-section h1, .dark_theme .header-top ul li a, .dark_theme .text-white, .dark_theme .news-content a, .dark_theme .header-top ul.social_icons li:first-child a:hover, .dark_theme .header-top ul.social_icons li:last-child a:hover, .dark_theme .footer ul.quick_links li:before, .dark_theme .profile_d a, .dark_theme .align-items-center strong, .dark_theme .contact_us p a:hover, body.dark_theme, .dark_theme .annual_report-block a, .dark_theme a, .dark_theme .intern_table td, .dark_theme .intern_table th, .dark_theme .profileinfo span, .dark_theme .conferences a:hover, .dark_theme .conferences .member_data:hover a, .dark_theme .holder ul li a:hover, .dark_theme .announcement-section .owl-nav .owl-prev, .dark_theme .announcement-section .owl-nav .owl-next, .dark_theme .detail li a, .dark_theme .accessibility_icon i, .dark_theme .project-list .text-truncate span, .dark_theme .description-area strong, .dark_theme .description-area strong span {
+    color: #f9dc0f !important;
+}
+.dark_theme .header-top ul li a.active, .dark_theme .header-carousel .owl-dot.active, .dark_theme .latest_updates_carousel .owl-dot.active, .dark_theme .footer .btn_style, 
+.dark_theme .latest_updates .updates_info .btn, .dark_theme .back-to-top, .dark_theme .btn_style, .dark_theme .inner_pages .nav-tabs .nav-item.show .nav-link, .dark_theme .nav-tabs .nav-link.active, .dark_theme button.read-more-btn, .dark_theme .faculty-carousel .owl-nav .owl-prev, .dark_theme .faculty-carousel .owl-nav .owl-next, .dark_theme button.read-less-btn, .dark_theme .select_year select, .dark_theme .hiring .alert-warning .fa {
+    background: #f9dc0f !important;
+}
+.dark_theme ul.social_icons li a.social_icons_fa, .dark_theme .annual_report-block .fa-file-pdf-o, .dark_theme #research-grants-secured12 li:before, .dark_theme ul.content li::before, .dark_theme .accessibility_outer i, .dark_theme .inner-pages .project-list .fa-file-pdf-o, .dark_theme .hiring .alert-warning, .dark_theme .inner-pages .project-list .fa-file-excel-o, .dark_theme .project-list span{
+    color: #fff !important;
+}
+.dark_theme .header-top ul li a.active, .dark_theme .footer .btn_style, .dark_theme .latest_updates .updates_info .btn, .dark_theme .back-to-top, .dark_theme .btn_style, 
+.dark_theme .conferences .btn_style:hover, .dark_theme .inner_pages .nav-tabs .nav-item.show .nav-link, .dark_theme .nav-tabs .nav-link.active, .dark_theme button.read-more-btn, .dark_theme button.read-less-btn, .dark_theme .select_year select, .dark_theme .hiring .alert-warning .fa {
+    color: #000 !important;
+}
+.dark_theme .about_us, .dark_theme .dropdown-menu, .dark_theme .header-top, .dark_theme .contact_info_scientist, .dark_theme ul.list_style li, .dark_theme .announcement-section .news-content, .dark_theme .accessibility_outer .accessibility_change:hover, .dark_theme .responsive-tabs dt{
+    background: #2f2b2b !important;
+}
+.dark_theme .announcement-section, .dark_theme .latest_updates:after, .dark_theme .latest_updates h2, .dark_theme .annual_report-block, .dark_theme .profile_block.box-shadow, 
+.dark_theme .scientisinfo .bg_gray, .dark_theme .accordion-item, .dark_theme #profileinfotabs .accordion-body, .dark_theme .project-list, .dark_theme .project-list .bg-white, .dark_theme ul.list_style li a, .dark_theme .mou .bg_gray, .dark_theme .accessibility_outer .accessibility_change  {
+    background: #424141 !important; 
+}
+.dark_theme .news-content {
+    border: 1px solid #424141;
+    background: #fff;
+}
+.dark_theme .navbar .navbar-nav > li > .nav-link:hover, .dark_theme .navbar .navbar-nav > li > .nav-link.active, .dark_theme .navbar .navbar-nav > li > .nav-link:focus, 
+.dark_theme .director_img {
+    background: #424141;
+}
+.dark_theme .dropdown-item:focus, .dark_theme .dropdown-item:hover {
+    background-color: #1c1b1b;
+}
+.dark_theme .section-title::before, .dark_theme .section-title::after {
+    background-image: linear-gradient(91deg, rgb(250 224 65) 0%, rgb(250 224 65) 100%);
+}
+.dark_theme .intern_table td, .dark_theme .intern_table th, .dark_theme .inner_pages .nav-tabs .nav-item.show .nav-link, .dark_theme .nav-tabs .nav-link.active, .dark_theme .select_year select, .dark_theme .back-to-top:hover, .dark_theme .intern_table td, .dark_theme .intern_table th{
+    border-color: #f9dc0f;
+}
+.dark_theme .accordion-item, .dark_theme .member_list, .dark_theme .hiring .alert-warning{
+    border-color: #000;
+}
+.dark_theme .position-relative .img-fluid {
+    width: 100%;
+}
+.dark_theme .profileinfo span, .dark_theme .project-list span, .dark_theme .row.gutters-8.float-right {
+    background: transparent !important;
+}
+.dark_theme .latest_updates h2::after {
+    border-image: repeating-linear-gradient(315deg, rgb(250 224 65), rgb(250 224 65) 1.5%, rgb(245 134 52 / 0%) 1.5%, rgb(245 134 52 / 0%) 3%) 30;
+}
+
+
+@media screen and (max-width: 991px){
+    .dark_theme div#navbarCollapse{
+        background: #2f2b2b !important;
+    }
+}
+
+
+/********************************Light_theme*****************************/
+.dark_normal .accessibility_outer .accessibility_change.accessibility_active {
+    background: #f8fbff;
+}
